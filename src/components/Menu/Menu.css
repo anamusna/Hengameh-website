@@ -1,0 +1,31 @@
+.navbar-brand a {
+	color: black;
+	font-weight: 500;
+	font-size: 1.5rem;
+}
+.navbar-brand {
+	cursor: pointer;
+	padding: 0.5rem;
+}
+.navbar {
+	/* 	border: 1px solid red; */
+	box-shadow: 0 0 !important;
+}
+.collapse ul {
+	margin: 0 10px;
+}
+
+.nav-item {
+	font-weight: 500;
+	padding: 10px;
+	/* font-size: 1.2rem; */
+	color: black !important;
+}
+.nav-link {
+	width: 100%;
+}
+
+.navbar-toggler-icon {
+	color: white !important;
+	border: 1px solid #ccc !important;
+}
